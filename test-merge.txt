@@ -1,0 +1,2 @@
+test merge branch in git
+so add a file in branch test-merge, test!
